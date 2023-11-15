@@ -11,7 +11,7 @@ body {
 body {
     margin: 0;
 }
-* {
+ {
     box-sizing: border-box;
 }
 user agent stylesheet
